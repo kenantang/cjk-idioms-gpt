@@ -2,6 +2,9 @@
 
 This repository contains the code and data for our paper on creative idiom translation. The paper has been accepted by both [EMNLP 2024 Findings](https://aclanthology.org/2024.findings-emnlp.544/) and [the Eleventh Workshop on Asian Translation (WAT 2024)](https://aclanthology.org/2024.wat-1.1/).
 
+## 2026 Update
+
+A comprehensive dataset created using the translation strategies in this paper can be found at [IdiomTranslate30](https://huggingface.co/datasets/kenantang/IdiomTranslate30). This dataset includes **9,066** idioms in 3 source languages and **2,719,800** translations in 10 target languages.
 
 ## Paper
 
